@@ -1,9 +1,8 @@
 # UU-Tex 
-This pack mainly focuses on retexturing GT5U, specifically GTNH's version.
+This packs main focus is retexturing GT5U, specifically GTNH's version.
 
-This includes circuits, crafting components (ie motors, pistons, etc,), multiblocks (including GT++, TecTech, Goodgenerator, etc,).
 
-So far most blocks in base GT have been retextured, as well as items, the goal is to completely retexture base GT, then all other GT5U related mods.
+So far most base GT blocks and items have been retextured. The goal is to completely retexture base GT, then all other GT5U related mods.
 
 
 # Images
@@ -55,10 +54,14 @@ So far most blocks in base GT have been retextured, as well as items, the goal i
 
   <summary>Components</summary>
   <img src="https://imgur.com/PkuiUW2.gif" />
-
+  
+</details>
+  
+  
   
 
-  
+
+
   
  
 
