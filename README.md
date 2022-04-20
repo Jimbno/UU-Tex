@@ -5,7 +5,7 @@ So far most base GT blocks and items have been retextured. The goal is to comple
 
 This pack works best with `use_machine_metal_tint` set to `false` in the gregtech config (currently broken in 2.1.2.3QF).
 
-# Features
+## Features
 - Dark UI for most mods ie AE2, gregtech, forestry, enderio, etc.
 - All GT related multiblock machines retextured including GT++, TecTech, Goodgenerator, etc.
 - All circuits for all tiers retextured, same for pistons, motors, etc.
@@ -14,7 +14,7 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 
 
 
-# Images
+### Images
 
 <details>
   <summary>Spoiler</summary>
@@ -69,6 +69,10 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
   
 </details>
 
+
+#### Licence 
+
+[`CC BY-NC-SA 4.0`](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 
   
