@@ -1,17 +1,9 @@
-# UU-Tex
-Untitled Unfinished Texturepack.
+# UU-Tex 
+This pack mainly focuses on retexturing GT5U, specifically GTNH's version.
 
+This includes circuits, crafting components (ie motors, pistons, etc,), multiblocks (including GT++, TecTech, Goodgenerator, etc,).
 
-
-# Description
-The aim of this pack is to rehaul the textures of base GT5U and all of it's addons to make them stylistically consistent. 
-
-
-use_machine_metal_tint=false this must be set in the gregtech config so it doesnt tint machine casings and GUI's an ugly blue tint.
-
-
-Also adds dark UIs for most mods in GTNH.
-
+So far most blocks in base GT have been retextured, as well as items, the goal is to completely retexture base GT, then all other GT5U related mods.
 
 
 # Images
@@ -33,20 +25,20 @@ Also adds dark UIs for most mods in GTNH.
   <summary>EBF coils</summary>
   <img src="https://imgur.com/fvozCX8.gif" />
   
-  <summary>Fusion tiers</summary>
+  <summary>Normal fusion</summary>
   <img src="https://imgur.com/x8gX0cl.gif" />
   
-  <summary>GT++ Multies</summary>
+  <summary>Mega Fusion</summary>
+  <img src="https://imgur.com/hIzoGDX.gif" />
+  
+  <summary>GT++ </summary>
   <img src="https://imgur.com/Y48cQd8.png" />
   
-  <summary>TecTech Multies</summary>
+  <summary>TecTech </summary>
   <img src="https://imgur.com/KBYR1zS.gif" />
   
-  <summary>Goodgen Multies</summary>
+  <summary>Goodgen </summary>
   <img src="https://imgur.com/iRfwKh6.png" />
-  
-  <summary>Compact Fusions</summary>
-  <img src="https://imgur.com/hIzoGDX.gif" />
   
   <summary>Dyson Swarm</summary>
   <img src="https://imgur.com/U8f351j.gif" />
@@ -65,7 +57,7 @@ Also adds dark UIs for most mods in GTNH.
   <img src="https://imgur.com/PkuiUW2.gif" />
 
   
-  
+
   
   
  
