@@ -14,7 +14,7 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 
 
 
-## Images
+# Images
 
 <details>
   <summary>Spoiler</summary>
