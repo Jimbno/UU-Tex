@@ -70,9 +70,9 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 </details>
 
 
-#### Licence 
+### Licensing
 
-[`CC BY-NC-SA 4.0`](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+ [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 
   
