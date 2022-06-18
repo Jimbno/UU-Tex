@@ -65,7 +65,7 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
   <img src="https://imgur.com/mW3Nraq.gif" />
 
   <summary>Components</summary>
-  <img src="https://imgur.com/ngvOhN0.gif" />
+  <img src="[https://imgur.com/ngvOhN0](https://imgur.com/a/ngvOhN0).gif" />
   
 </details>
 
