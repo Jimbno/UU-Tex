@@ -14,7 +14,11 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 
 
 ## UI resourcepacks
+[Dark.UI](https://github.com/Jimbno/Dark.UI)
 
+[Ice.UI](https://github.com/Jimbno/Ice.UI)
+
+[Charcoal.UI](https://github.com/Jimbno/Charcoal.UI)
 
 
 
