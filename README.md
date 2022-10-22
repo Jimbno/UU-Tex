@@ -85,7 +85,9 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 
 
   
-  
+#####  If you wish to donate 
+
+ [![](https://img.shields.io/badge/ko---fi-orange)](https://Ko-fi.com/jimbno)
   
 
 
