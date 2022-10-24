@@ -3,7 +3,7 @@ This packs main focus is retexturing GT5U, specifically GTNH's version.
 
 So far most base GT blocks and items have been retextured. The goal is to completely retexture base GT, then all other GT5U related mods.
 
-This pack works best with `use_machine_metal_tint` set to `false` in the gregtech config (currently broken in 2.1.2.3QF).
+This pack works best with `use_machine_metal_tint` set to `false` in the gregtech config.
 
 
 ## Features
