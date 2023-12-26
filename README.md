@@ -16,6 +16,7 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 ## Recommended texturepacks and addons
 [Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases)
 
+[Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T)
 
 ## UI resourcepacks
 [Dark.UI](https://github.com/Jimbno/Dark.UI)
