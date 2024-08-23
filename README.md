@@ -13,10 +13,14 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 - Other random retextured blocks, ie ender io conduit, foresty workbench etc.
 
 
-## Recommended texturepacks and addons
+## UU-Tex Tweaks and addons
+
 [Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases)
 
 [Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T)
+
+[Lilpaladin1's Patch](https://github.com/lilpaladin1/uu-tex-circuits)
+
 
 ## UI resourcepacks
 [Dark.UI](https://github.com/Jimbno/Dark.UI)
