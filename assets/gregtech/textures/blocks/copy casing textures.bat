@@ -4,7 +4,6 @@ for %%a in (%list%) do (
     COPY %%a.png "materialicons\DIAMOND\"
     COPY %%a.png "materialicons\DULL\"
     COPY %%a.png "materialicons\EMERALD\"
-    COPY %%a.png "materialicons\ENRICHED\"
     COPY %%a.png "materialicons\FIERY\"
     COPY %%a.png "materialicons\FINE\"
     COPY %%a.png "materialicons\FLINT\"
