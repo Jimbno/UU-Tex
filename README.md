@@ -1,10 +1,7 @@
 # UU-Tex 
-This packs main focus is retexturing GT5U, specifically GTNH's version.
+This is a fork of Jimbno's UU-Tex! 
 
-So far most base GT blocks and items have been retextured. The goal is to completely retexture base GT, then all other GT5U related mods.
-
-This pack works best with `use_machine_metal_tint` set to `false` in the gregtech config.
-
+I have updated missing textures to the UU-Tex style to the best of my ability. If something looks off or if you would like to add some textures as well, feel free to ping me on the official GTNH Discord server.
 
 ## Features
 
@@ -15,11 +12,11 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 
 ## UU-Tex Tweaks and addons
 
-[Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases)
+[Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases) - adds labels to compressed plates, circuits, wafers, and wafer-related items
 
-[Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T)
+[Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T) - replaces motor and pump textures to closely resemble the vanilla GT versions
 
-[Lilpaladin1's Patch](https://github.com/lilpaladin1/uu-tex-circuits)
+[Lilpaladin1's Patch](https://github.com/lilpaladin1/uu-tex-circuits) - changes circuit textures so that they become smaller as they get cheaper for each tier
 
 
 ## UI resourcepacks
@@ -28,6 +25,8 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 [Ice.UI](https://github.com/Jimbno/Ice.UI)
 
 [Charcoal.UI](https://github.com/Jimbno/Charcoal.UI)
+
+[Shadow.UI](https://github.com/Ranzuu/Shadow-UI) - an updated fork of Charcoal.UI
 
 
 
@@ -91,12 +90,6 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 ### Licensing
 
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-
-
-  
-#####  If you wish to donate 
-
- [![](https://img.shields.io/badge/ko---fi-orange)](https://Ko-fi.com/jimbno)
   
 
 
