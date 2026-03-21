@@ -5,30 +5,30 @@ I have updated missing textures to the UU-Tex style to the best of my ability. I
 
 ## Features
 
-- All GT related multiblock machines retextured including GT++, TecTech, Goodgenerator, etc.
+- All GT related multiblock machines retextured including GT++, TecTech, Good Generator, etc.
 - All circuit tiers retextured, same for pistons, motors, etc.
-- Other random retextured blocks, ie ender io conduit, foresty workbench etc.
+- Other random retextured blocks, i.e. Ender IO conduits, Foresty workbench etc.
 
 
-## UU-Tex Tweaks and addons
+## UU-Tex Tweaks and Addons
 
 [Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases) - adds labels to compressed plates, circuits, wafers, and wafer-related items
 
-[Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T) - replaces motor and pump textures to closely resemble the vanilla GT versions
+[Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T) - replaces motor and pump textures to closely resemble their vanilla GT counterparts
 
 [Lilpaladin1's Patch](https://github.com/lilpaladin1/uu-tex-circuits) - changes circuit textures so that they become smaller as they get cheaper for each tier
 
+Legacy Turbines [2.8.X](https://github.com/revurii/UU-Tex/releases/tag/LegacyTurbines_v1.0) - brings back the old circular turbine overlays for the Centrifuge, Rotor Assembly, and Isamill Grinding Machine from the original UU-Tex pack if you do not like wallsharing them
 
-## UI resourcepacks
+
+## UI Resource Packs
 [Dark.UI](https://github.com/Jimbno/Dark.UI)
 
 [Ice.UI](https://github.com/Jimbno/Ice.UI)
 
 [Charcoal.UI](https://github.com/Jimbno/Charcoal.UI)
 
-[Shadow.UI](https://github.com/Ranzuu/Shadow-UI) - an updated fork of Charcoal.UI
-
-
+[Shadow.UI](https://github.com/Ranzuu/Shadow-UI) - a spiritual successor to Charcoal.UI
 
 
 # Images
@@ -39,41 +39,41 @@ I have updated missing textures to the UU-Tex style to the best of my ability. I
   
   
   
-  # Multi block machines
+  # Multiblock machines
   
-  <summary>GT Multies (not all pictured)</summary>
+  <summary>GT Multis (not all pictured)</summary>
   <img src="https://imgur.com/hscFsPK.png" />
   
-  <summary>Active turbine animation</summary>
+  <summary>Active Turbine Animation (these have new octagonal wallshare-friendly textures)</summary>
   <img src="https://imgur.com/flCDflq.gif" />
   
-  <summary>EBF coils</summary>
+  <summary>EBF Coils</summary>
   <img src="https://imgur.com/fvozCX8.gif" />
   
-  <summary>Normal fusion</summary>
+  <summary>Fusion Reactors</summary>
   <img src="https://imgur.com/x8gX0cl.gif" />
   
-  <summary>Mega Fusion</summary>
+  <summary>Compact Fusion Reactors</summary>
   <img src="https://imgur.com/hIzoGDX.gif" />
   
-  <summary>GT++ </summary>
+  <summary>GT++ Multis</summary>
   <img src="https://imgur.com/Y48cQd8.png" />
   
-  <summary>TecTech </summary>
+  <summary>TecTech Multis</summary>
   <img src="https://imgur.com/KBYR1zS.gif" />
   
-  <summary>Goodgen </summary>
+  <summary>Good Generator Multis</summary>
   <img src="https://imgur.com/iRfwKh6.png" />
   
   <summary>Dyson Swarm</summary>
   <img src="https://imgur.com/U8f351j.gif" />
   
-  <summary>EMT research completer</summary>
+  <summary>Electro-Magic Tools Research Completer</summary>
   <img src="https://imgur.com/W8FQyoB.gif" />
   
-  # Single block machines
+  # Singleblock machines
   
-  <summary>Animated textures for single blocks</summary>
+  <summary>Animated Textures for Singleblocks</summary>
   <img src="https://imgur.com/2Bwx4y7.gif" />
   
   # Items
