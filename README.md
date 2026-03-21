@@ -18,7 +18,7 @@ I have updated missing textures to the UU-Tex style to the best of my ability. I
 
 [Lilpaladin1's Patch](https://github.com/lilpaladin1/uu-tex-circuits) - changes circuit textures so that they become smaller as they get cheaper for each tier
 
-[Legacy Turbines](https://github.com/revurii/UU-Tex-Legacy-Turbines) - restores the old circular turbine overlays for the Centrifuge, Rotor Assembly, and Isamill Grinding Machine from the original UU-Tex pack if you do not like wallsharing them
+[Legacy Turbines](https://github.com/revurii/UU-Tex-Legacy-Turbines) - restores the old circular turbine overlays used by the Centrifuge, Rotor Assembly, and Isamill Grinding Machine from the original UU-Tex resource pack (not wallshare-friendly)
 
 
 ## UI Resource Packs
