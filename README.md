@@ -28,7 +28,7 @@ I have updated missing textures to the UU-Tex style to the best of my ability. I
 
 [Charcoal.UI](https://github.com/Jimbno/Charcoal.UI)
 
-[Shadow.UI](https://github.com/Ranzuu/Shadow-UI) - a spiritual successor to Charcoal.UI
+[Shadow.UI](https://github.com/Ranzuu/Shadow-UI) - spiritual successor to Charcoal.UI
 
 
 # Images
