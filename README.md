@@ -3,6 +3,9 @@ This is a fork of Jimbno's UU-Tex!
 
 I have updated missing textures to the UU-Tex style to the best of my ability. If something looks off or if you would like to add some textures as well, feel free to ping me on the official GTNH Discord server.
 
+### I am currently working on fixing textures that were broken/renamed in 2.9! 
+- Until I have a release out for 2.9, you may download an in-progress version by clicking `Code -> Download ZIP` and then extracting the folder inside into your resource pack folder.
+
 ## Features
 
 - All GT related multiblock machines retextured including GT++, TecTech, Good Generator, etc.
