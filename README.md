@@ -1,11 +1,4 @@
 # UU-Tex 
-This is a fork of Jimbno's UU-Tex! 
-
-I have updated missing textures to the UU-Tex style to the best of my ability. If something looks off or if you would like to add some textures as well, feel free to ping me on the official GTNH Discord server.
-
-### I am currently working on updating to 2.9! 
-- Until I have a release out for 2.9, you may download an in-progress version by clicking `Code -> Download ZIP` and then extracting the folder inside into your resource pack folder.
-- I am considering changing some of the textures in accordance with the structure changes (ex. Zhuhai, Chemical Bath, Cutting Machine, 3D Copying Machine, Sledgehammer, etc.)
 
 ## Features
 
