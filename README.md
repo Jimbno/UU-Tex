@@ -1,35 +1,38 @@
 # UU-Tex 
-This packs main focus is retexturing GT5U, specifically GTNH's version.
+This is a fork of Jimbno's UU-Tex! 
 
-So far most base GT blocks and items have been retextured. The goal is to completely retexture base GT, then all other GT5U related mods.
+I have updated missing textures to the UU-Tex style to the best of my ability. If something looks off or if you would like to add some textures as well, feel free to ping me on the official GTNH Discord server.
 
-This pack works best with `use_machine_metal_tint` set to `false` in the gregtech config.
-
+### I am currently working on updating to 2.9! 
+- Until I have a release out for 2.9, you may download an in-progress version by clicking `Code -> Download ZIP` and then extracting the folder inside into your resource pack folder.
+- I am considering changing some of the textures in accordance with the structure changes (ex. Zhuhai, Chemical Bath, Cutting Machine, 3D Copying Machine, Sledgehammer, etc.)
 
 ## Features
 
-- All GT related multiblock machines retextured including GT++, TecTech, Goodgenerator, etc.
+- All GT related multiblock machines retextured including GT++, TecTech, Good Generator, etc.
 - All circuit tiers retextured, same for pistons, motors, etc.
-- Other random retextured blocks, ie ender io conduit, foresty workbench etc.
+- Other random retextured blocks, i.e. Ender IO conduits, Foresty workbench etc.
 
 
-## UU-Tex Tweaks and addons
+## UU-Tex Tweaks and Addons
 
-[Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases)
+[Hexa's Patch](https://github.com/Hexakosioihexekontahexa/UU-Tex/releases) - adds labels to compressed plates, circuits, wafers, and wafer-related items
 
-[Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T)
+[Aerospacee's More Vanilla Remix](https://github.com/wantayanamirei/MVUU-T) - replaces motor and pump textures to closely resemble their vanilla GT counterparts
 
-[Lilpaladin1's Patch](https://github.com/lilpaladin1/uu-tex-circuits)
+[Lilpaladin1's Patch](https://github.com/lilpaladin1/uu-tex-circuits) - changes circuit textures so that they become smaller as they get cheaper for each tier
+
+[Legacy Turbines](https://github.com/revurii/UU-Tex-Legacy-Turbines) - restores the old circular turbine overlays used by the Centrifuge, Rotor Assembly, and Isamill Grinding Machine from the original UU-Tex resource pack (not wallshare-friendly)
 
 
-## UI resourcepacks
+## UI Resource Packs
 [Dark.UI](https://github.com/Jimbno/Dark.UI)
 
 [Ice.UI](https://github.com/Jimbno/Ice.UI)
 
 [Charcoal.UI](https://github.com/Jimbno/Charcoal.UI)
 
-
+[Shadow.UI](https://github.com/Ranzuu/Shadow-UI) - spiritual successor to Charcoal.UI
 
 
 # Images
@@ -40,41 +43,41 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
   
   
   
-  # Multi block machines
+  # Multiblock machines
   
-  <summary>GT Multies (not all pictured)</summary>
+  <summary>GT Multis (not all pictured)</summary>
   <img src="https://imgur.com/hscFsPK.png" />
   
-  <summary>Active turbine animation</summary>
+  <summary>Active Turbine Animation (these have new octagonal wallshare-friendly textures)</summary>
   <img src="https://imgur.com/flCDflq.gif" />
   
-  <summary>EBF coils</summary>
+  <summary>EBF Coils</summary>
   <img src="https://imgur.com/fvozCX8.gif" />
   
-  <summary>Normal fusion</summary>
+  <summary>Fusion Reactors</summary>
   <img src="https://imgur.com/x8gX0cl.gif" />
   
-  <summary>Mega Fusion</summary>
+  <summary>Compact Fusion Reactors</summary>
   <img src="https://imgur.com/hIzoGDX.gif" />
   
-  <summary>GT++ </summary>
+  <summary>GT++ Multis</summary>
   <img src="https://imgur.com/Y48cQd8.png" />
   
-  <summary>TecTech </summary>
+  <summary>TecTech Multis</summary>
   <img src="https://imgur.com/KBYR1zS.gif" />
   
-  <summary>Goodgen </summary>
+  <summary>Good Generator Multis</summary>
   <img src="https://imgur.com/iRfwKh6.png" />
   
   <summary>Dyson Swarm</summary>
   <img src="https://imgur.com/U8f351j.gif" />
   
-  <summary>EMT research completer</summary>
+  <summary>Electro-Magic Tools Research Completer</summary>
   <img src="https://imgur.com/W8FQyoB.gif" />
   
-  # Single block machines
+  # Singleblock machines
   
-  <summary>Animated textures for single blocks</summary>
+  <summary>Animated Textures for Singleblocks</summary>
   <img src="https://imgur.com/2Bwx4y7.gif" />
   
   # Items
@@ -91,12 +94,6 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 ### Licensing
 
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-
-
-  
-#####  If you wish to donate 
-
- [![](https://img.shields.io/badge/ko---fi-orange)](https://Ko-fi.com/jimbno)
   
 
 

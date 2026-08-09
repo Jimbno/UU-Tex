@@ -1,6 +1,17 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "§bWIP"
+    "description": "UU-Tex for 2.9.X"
+  },
+  "gtnh_resource_pack_updater": {
+  "schema": 1,
+  "pack_name": "UU-Tex",
+  "pack_version": "2.0",
+  "pack_game_version": "2.9.X",
+  "source": {
+    "type": "github_releases",
+    "owner": "revurii",
+    "repo": "UU-Tex"
+    }
   }
 }
