@@ -1,10 +1,15 @@
 # UU-Tex 
 
+This packs main focus is retexturing GT5U, specifically GTNH's version.
+So far most base GT blocks and items have been retextured. The goal is to completely retexture base GT, then all other GT5U related mods.
+This pack works best with `use_machine_metal_tint` set to `false` in the gregtech config.
+
+
 ## Features
 
-- All GT related multiblock machines retextured including GT++, TecTech, Good Generator, etc.
+- All GT related multiblock machines retextured including GT++, TecTech, Goodgenerator, etc.
 - All circuit tiers retextured, same for pistons, motors, etc.
-- Other random retextured blocks, i.e. Ender IO conduits, Foresty workbench etc.
+- Other random retextured blocks, ie ender io conduit, foresty workbench etc.
 
 
 ## UU-Tex Tweaks and Addons
